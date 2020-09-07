@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+
+<dir>
+
+<title>[B][COLORwhite]ערוצי ספורט[/COLOR][/B]</title>
+
+<link>https://raw.githubusercontent.com/sparkonet/my-TV/master/sport1.xml</link>
+
+<thumbnail>https://espnpressroom.com/us/files/2018/09/ESPN3_XfinityX1-780x405.jpg</thumbnail>
+
+<fanart>https://i.pinimg.com/originals/d3/83/95/d38395508b4f2eb38cfd2005a6d2b84d.jpg</fanart>
+
+</dir>
+
+
+<plugin>
+    <name>[B]RisingTides:ספורט[/B]</name>
+    <link></link>
+    <name>DIABLO VOD</name>
+   <link>plugin://plugin.video.Rising.Tides/?</link>
+    <thumbnail></thumbnail>
+	<fanart></fanart>
+	</plugin>
