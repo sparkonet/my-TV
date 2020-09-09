@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+
+<plugin>
+    <name>[B]UFC קרבות[/B]</name>
+    <link>plugin://plugin.video.youtube/channel/UCvgfXK4nTYKudb0rFR6noLA/playlists/</link>
+    <thumbnail>http://pluspng.com/img-png/ufc-png--600.png</thumbnail>
+	<fanart>https://wallpaperset.com/w/full/5/3/9/273886.jpg</fanart>
+	</plugin>
+	
+	
+	<plugin>
+    <name>[B]wwe היאבקות[/B]</name>
+    <link>plugin://plugin.video.wrestling-on-demand/?action</link>
+    <thumbnail>https://i.pinimg.com/originals/03/96/0c/03960c6ad6810d01289a2fdc0493daee.jpg</thumbnail>
+	<fanart>https://wallpapercave.com/wp/S32Ds48.jpg</fanart>
+	</plugin>
+	
+	
+	
+	
