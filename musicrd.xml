@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+<item>
+	<title>[B]my test[/B]</title>
+	<link>plugin://plugin.video.idanplus/?iconimage=https%253A%252F%252Feco99fm.maariv.co.il%252Fdownload%252FSets%252Fpictures%252F%252Fgenres%252Feco-israeli.png&amp;mode=1&amp;module=99fm&amp;moredata&amp;name=%5bCOLOR%20aquamarine%5d%5bB%5d%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%20eco%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=https%253A%252F%252Feco99fm.maariv.co.il%252Frss%252FMusicChannels%252F%253FSid%253D9&quot;,return</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
