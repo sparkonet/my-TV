@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+<item>
+	<title>[B]ריטה[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCVdfA2NtYT8qzjq4uGfCdKA/playlists/</link>
+	<thumbnail>https://images1.calcalist.co.il/PicServer3/2017/08/06/747372/5_lm.jpg</thumbnail>
+	<fanart>https://img.mako.co.il/2016/08/28/rita_i.jpg</fanart>
+	</item>
+	
+	<item>
+	<title>[B]מאיה בוסקילה[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC76jXPW8xgqqzi613RXjvzw/playlists/</link>
+	<thumbnail>https://img.mako.co.il/2020/01/05/next_star7_21_10_maya_song_i.jpg</thumbnail>
+	<fanart>https://www.habima.co.il/wp-content/uploads/2016/08/%D7%9E%D7%90%D7%99%D7%94-%D7%91%D7%95%D7%A1%D7%A7%D7%99%D7%9C%D7%94-%D7%92%D7%93%D7%95%D7%9C.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]שרית חדד[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC0m-czKbg-tL7J61RDdU1rg/playlists/</link>
+	<thumbnail>https://www.ynet.co.il/PicServer5/2019/09/25/9508623/9508563099488640360no.jpg</thumbnail>
+	<fanart>https://www.ynet.co.il/PicServer5/2019/09/25/9508623/9508563099488640360no.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]שירי מימון[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCL-5_85EubYTJ3i22wSxxMQ/playlists/</link>
+	<thumbnail>https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2017/10/11/8084055/1_6.jpg</thumbnail>
+	<fanart>https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2017/10/11/8084055/1_6.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]דיקלה[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCsrkmAMuU63PcWReMk7Ryzw/playlists/</link>
+	<thumbnail>https://medias.atmag.co.il/www/uploads/2019/02/DSC092052-600x600.jpg</thumbnail>
+	<fanart>https://img.mako.co.il/2014/09/10/dikla_sheva_baerev_small_i.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]עדן בן זקן[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCt927ZDEsYMJL_8PXqMiVhg/playlists/</link>
+	<thumbnail>https://www.israelhayom.co.il/sites/default/files/styles/566x349/public/images/articles/2019/12/09/15758863241971_b.jpg</thumbnail>
+	<fanart>https://blog.partner.co.il/wp-content/uploads/2017/08/eden-665x333.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]נועה קירל[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC7sHZrh1-mdwyBLq52m1MSw/playlists/</link>
+	<thumbnail>https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2018/04/26/8494218/3_6.jpg</thumbnail>
+	<fanart>https://lh3.googleusercontent.com/proxy/RXhqmjlJVWXRyPCHiBzMNFtTfG1q3b1_PP4ckdKhfIoCFWDtERhtfv2tQqjQTNa7aMxCzI7SpxH_hbmlpA0Zte8RZ-wjrE_Yx50dIpnq0gB7B7j8FzmJQg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]קרן פלס[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCmHVigkRS9Ul8S25DAFTZbg/playlists/</link>
+	<thumbnail>https://matnasganyavne.org/productImages2/30/2019/04/04/image1554373176.jpg</thumbnail>
+	<fanart>https://matnasganyavne.org/productImages2/30/2019/04/04/image1554373176.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]מירי מסיקה[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC7cwmZGtlWPDkkEWsxkZd-Q/playlists/</link>
+	<thumbnail>https://medias.atmag.co.il/www/uploads/2019/11/%D7%9E%D7%99%D7%A8%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-%D7%91%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F-%D7%9C%D7%A1%D7%93%D7%A8%D7%AA-%D7%9E%D7%A8%D7%9B%D7%9B%D7%99-%D7%94%D7%9B%D7%91%D7%99%D7%A1%D7%94-%D7%A9%D7%9C-%D7%9C%D7%A0%D7%95%D7%A8-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%99%D7%97%D7%A6-3-750x421-1575204098.jpg</thumbnail>
+	<fanart>https://medias.atmag.co.il/www/uploads/2019/11/%D7%9E%D7%99%D7%A8%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-%D7%91%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F-%D7%9C%D7%A1%D7%93%D7%A8%D7%AA-%D7%9E%D7%A8%D7%9B%D7%9B%D7%99-%D7%94%D7%9B%D7%91%D7%99%D7%A1%D7%94-%D7%A9%D7%9C-%D7%9C%D7%A0%D7%95%D7%A8-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%99%D7%97%D7%A6-3-750x421-1575204098.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]שרית אביטן[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC02Py08dGBapnrubHSvnfHA/playlists/</link>
+	<thumbnail>https://www.israelhayom.co.il/sites/default/files/u55081/45.jpg</thumbnail>
+	<fanart>https://www.israelhayom.co.il/sites/default/files/u55081/45.jpg</fanart>
+	</item>
+	
+	<item>
+	<title>[B]נסרין קדרי[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCW6SyipF7hjxy0EPwEyLaXw/playlists/</link>
+	<thumbnail>https://www.srugim.co.il/wp-content/uploads/2019/01/238056.jpg</thumbnail>
+	<fanart>https://www.srugim.co.il/wp-content/uploads/2019/01/238056.jpg</fanart>
+	</item>
+	
+	<item>
+	<title>[B]נוי פדלון[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCYKUn3lFG-bW5_aeiXSNuDQ/playlists/</link>
+	<thumbnail>https://www.nmcyoung.co.il/wp-content/uploads/2019/02/6405745.jpg</thumbnail>
+	<fanart>https://www.nmcyoung.co.il/wp-content/uploads/2019/02/6405745.jpg</fanart>
+	</item>
+	
+	
+	<item>
+	<title>[B]יובל דיין[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCFW5vew-2ydnHjc1ClHnjjg/playlists/</link>
+	<thumbnail>https://www.srugim.co.il/wp-content/uploads/2018/10/71484-e1539606040960.jpg</thumbnail>
+	<fanart>https://www.srugim.co.il/wp-content/uploads/2018/10/71484-e1539606040960.jpg</fanart>
+	</item>
+	
+	<item>
+	<title>[B]נופר סלמאן[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC0EQmsepc15fWDozQ7hD_xA/playlists/</link>
+	<thumbnail>https://img.wcdn.co.il/f_auto,w_1200,t_54/2/7/0/7/2707562-46.jpg</thumbnail>
+	<fanart>https://img.wcdn.co.il/f_auto,w_1200,t_54/2/7/0/7/2707562-46.jpg</fanart>
+	</item>
+	
+	
+	<plugin>
+
+	<title>[B]חיפוש זמרות[/B]</title>
+
+	<link>plugin://plugin.video.youtube/kodion/search/input/</link>
+	<thumbnail>https://i.imgur.com/1tYubqW.png</thumbnail>
+	<fanart>https://www.israelhayom.co.il/sites/default/files/styles/566x349/public/images/articles/2020/03/05/15834381473447_b.jpg</fanart>
+</plugin>
+	
+	
+	
