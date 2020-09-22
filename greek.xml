@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+<dir>
+	<title>[B]יוונית שקטים[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLdODhYAqRu3YDGTZqIqmzo0fEecnudNST/</link>
+	<thumbnail>https://eskipaper.com/images/greece-wallpaper-4.jpg</thumbnail>
+	<fanart>https://eskipaper.com/images/greece-wallpaper-4.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]חגיגה יוונית[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLdODhYAqRu3Zjl8dNlM5dZ1cldIq7tC2Q/</link>
+	<thumbnail>https://c4.wallpaperflare.com/wallpaper/743/653/230/greece-santorini-wallpaper-preview.jpg</thumbnail>
+	<fanart>https://c4.wallpaperflare.com/wallpaper/743/653/230/greece-santorini-wallpaper-preview.jpg</fanart>
+</dir>
+
+
+<dir>
+	<title>[B]מיקס יוונית[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLdODhYAqRu3bkft4xiD6gxSLimiLgtEXR/</link>
+	<thumbnail>https://cdn.statically.io/img/wallpapercave.com/wp/Js0A6gm.jpg</thumbnail>
+	<fanart>https://cdn.statically.io/img/wallpapercave.com/wp/Js0A6gm.jpg</fanart>
+</dir>
+
+
+<dir>
+	<title>[B]מוזיקה יוונית 2020[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PL8qfGN2xer1mKg-FBYTGZdYFoKg4mOT3q/</link>
+	<thumbnail>https://i.ytimg.com/vi/Lq2r9azecBc/maxresdefault.jpg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/Lq2r9azecBc/maxresdefault.jpg</fanart>
+</dir>
