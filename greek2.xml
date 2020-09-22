@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+<dir>
+	<title>[B]אלאונורה זוגאנלי[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCiSlNqsmGPWjtpx5iR0dDkA/playlists/</link>
+	<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Features123/v4/8f/36/fe/8f36fefa-5813-5fab-dd5e-f762aecfedb4/mzl.bbucnrpu.png/800x800bb.jpeg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/GivQa5H9Yr4/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]אלני צליגופול[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLhM30aIjm6z0N1nFaFYnQVy7dJFzy520V/</link>
+	<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Features/v4/24/0c/65/240c6508-b3f2-0df4-25c8-2d118bd6e893/mzl.djocrbmc.jpg/800x800bb.jpeg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/KTpyc_AmL9U/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]אמריליס[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC3I_IiOXVtwhy0EX59gLRyA/playlists/</link>
+	<thumbnail>https://i.vimeocdn.com/video/713807090_1280x720.jpg</thumbnail>
+	<fanart>https://i.vimeocdn.com/video/713807090_1280x720.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]אנה ויסי[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLL3428vatHQIHTX3nmRTgYSGKlMOmeGxi/</link>
+	<thumbnail>https://leylotyavan.co.il/uploads/%D7%90%D7%A0%D7%94-%D7%95%D7%99%D7%A1%D7%99-%D7%91%D7%AA%D7%95%D7%9B%D7%99-425x330.jpg</thumbnail>
+	<fanart>https://www.greek.co.il/wp-content/uploads/anna-vissi.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]אלני ויטלי[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLXd5hJD82auDp9EPhia-kZPcWLCyNVGk2/</link>
+	<thumbnail>https://i.ytimg.com/vi/sCXZip71GME/maxresdefault.jpg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/sCXZip71GME/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]גליקריה[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCtfNlecMwydpGg3IP9qLgYQ/playlists/</link>
+	<thumbnail>https://greekcitytimes.com/wp-content/uploads/2017/02/Glykeria-1.jpg</thumbnail>
+	<fanart>https://greekcitytimes.com/wp-content/uploads/2017/02/Glykeria-1.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]דספינה ואנדי[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLSNOwOMcvY-4Xqsudgd53uyUjqyTdX7MA/</link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41-4iQT5rvL.jpg</thumbnail>
+	<fanart>https://images-na.ssl-images-amazon.com/images/I/41-4iQT5rvL.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]חאריס אלקסיו[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCqdb8sDCLN7YJ7_3qVWC-IQ/playlists/</link>
+	<thumbnail>https://greeksongstories.files.wordpress.com/2015/11/alexiou2.jpg?w=584</thumbnail>
+	<fanart>https://greekcitytimes.com/wp-content/uploads/2020/06/main-7.jpg</fanart>
+</dir>
+
+
+<dir>
+	<title>[B]יאנה טרזי[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCWkW_YhBUkPp_BESt0NOrPA/playlists/</link>
+	<thumbnail>https://i1.wp.com/escbeat.com/wp-content/uploads/2018/11/terzi-e1541075909625.jpg</thumbnail>
+	<fanart>https://i1.wp.com/escbeat.com/wp-content/uploads/2018/11/terzi-e1541075909625.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]לנה פאפאדופולו[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCi3L1R51_U96DJNS_156h_A/playlists/</link>
+	<thumbnail>https://i.ytimg.com/vi/ICxs7m-W3qI/maxresdefault.jpg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/ICxs7m-W3qI/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]מלינה קאנה[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PL53jGhBTGFxRmy89XX0Imllz-DFgcGQzM/</link>
+	<thumbnail>https://i.ytimg.com/vi/HHxFl_qAuYQ/maxresdefault.jpg</thumbnail>
+	<fanart>https://i.ytimg.com/vi/HHxFl_qAuYQ/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]נטשה תאודורידו[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UCQFRQdTPl4kLkx8Po3kkN5A/playlists/</link>
+	<thumbnail>https://m.media-amazon.com/images/I/816z5U0MR+L._SS500_.jpg</thumbnail>
+	<fanart>https://m.media-amazon.com/images/I/816z5U0MR+L._SS500_.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]פאולה פוקה[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PL5pOAc7q6OJBRsCM6a5n4wYFWWJ9ryMjM/</link>
+	<thumbnail>https://in-cyprus.philenews.com/wp-content/uploads/2020/03/paola.jpg</thumbnail>
+	<fanart>https://in-cyprus.philenews.com/wp-content/uploads/2020/03/paola.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]פגי זינה[/B]</title>
+	<link>plugin://plugin.video.youtube/channel/UC8dk6H5BR0IcNqEezsjNWkg/playlists/</link>
+	<thumbnail>https://alchetron.com/cdn/peggy-zina-271c2f97-74fe-4c30-be3d-095f49908b7-resize-750.jpeg</thumbnail>
+	<fanart>https://www.patrasevents.gr/imgsrv/f/full/2849313.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B]ראליה חריסטידו[/B]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLa3erj4C087zpFHxglVRV9Val1awtdEz1/</link>
+	<thumbnail>https://m.media-amazon.com/images/I/71s-z5egy1L._SS500_.jpg</thumbnail>
+	<fanart>https://m.media-amazon.com/images/I/71s-z5egy1L._SS500_.jpg</fanart>
+</dir>
