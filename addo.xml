@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>wolverine</layoutype>
+
+<item>
+<title>[B][COLOR orange]***הרחבות מובילות בקודי***[/COLOR][/B]</title>
+<thumbnail>https://bestdroidplayer.com/wp-content/uploads/2018/12/best-kodi-addons-top-1200x900.png</thumbnail>
+<fanart>https://www.setaswall.com/wp-content/uploads/2017/12/Blue-And-Black-Wallpaper-18-1920x1080.jpg</fanart>
+</item>
+
+
+<plugin>
+    <name>[B]The Crew[/B]</name>
+    <link>plugin://plugin.video.thecrew/</link>
+    <thumbnail>special://home/userdata/pic/icon/creww.png</thumbnail>
+	<fanart>special://home/userdata/pic/fanart/crewf.jpg</fanart>
+	</plugin>
+	
+	<plugin>
+    <name>[B]Loonatics Unleashed[/B]</name>
+    <link>plugin://plugin.video.lu/</link>
+    <thumbnail>special://home/userdata/pic/icon/loon.png</thumbnail>
+	<fanart>special://home/userdata/pic/fanart/lu.jpg</fanart>
+	</plugin>
+	
+	
+	<plugin>
+    <name>[B]The Magic Dragon[/B]</name>
+    <link>plugin://plugin.video.themagicdragon/</link>
+    <thumbnail>special://home/userdata/pic/icon/tmd.png</thumbnail>
+	<fanart>special://home/userdata/pic/fanart/TMD.jpg</fanart>
+	</plugin>
