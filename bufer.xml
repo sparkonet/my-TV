@@ -1,0 +1,24 @@
+{
+    "באפר לפי נתוני מכשיר": [
+        {
+            "name": "הגדרת באפר ברירת מחדל",
+            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/default_cache_preset.xml",
+            "description": "קביעה מוגדרת מראש זו תשחזר את הגדרות ברירת המחדל עבור הקטגוריות 'רשת' ו'מטמון ."
+        },
+        {
+            "name": "זירו קאש",
+            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/zero_cache_preset.xml",
+            "description": "קביעה מוגדרת מראש זו תאפשר 'מטמון אפס' במכשיר שלך. [B] אל תשתמש [/ B] בקביעה מוגדרת מראש זו במכשירים עם אחסון פנוי בכמויות נמוכות, או שיש בהם אחסון פלאש. [B] זה בטוח [/ B] לשימוש רק במכשירים עם כוננים קשיחים."
+        },
+        {
+            "name": "מכשיר בעל זיכרון RAM נמוך",
+            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/low_ram_preset.xml",
+            "description": "ניתן להשתמש בקביעה מוגדרת מראש זו במכשירים עם פחות מ -2 GB RAM, כמו אמזון Fire Sticks."
+        },
+        {
+            "name": "מכשיר אם RAM גבוהה",
+            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/high_end_preset.xml",
+            "description": מכשיר אם RAM  גבוהה לדוגמא נבידיה שילד "
+        }
+    ]
+}
